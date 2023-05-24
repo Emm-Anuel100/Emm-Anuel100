@@ -1,0 +1,5 @@
+-- Hi, i am Chinweokwu Emmanuel
+-- A tech enthusiast
+-- Am a web developer and a ui/ux designer
+-- Am currently learning dotnet development 
+    though i am also interested in smart contract development.
