@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>- 🎓 Alma mater - Lincoln college <br>- 🎋 Currently learning smart contract development<br>- 📫 How to reach me: https://chinweokwuemmanuel-8fcfa.web.app/<br>- 🌎 interested in Html5,Css3,Javascript,Less/Scss,React,Php,Mysql, smart contract dev. and more ..
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/chinweoemmanue) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100086050750991) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinweokwu-emmanuel-a05a5a251/) 
