@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>- 🎓 Alma mater - Lincoln college <br>- 🎋 Currently learning smart contract development<br>- 📫 How to reach me: https://chinweokwuemmanuel-8fcfa.web.app/<br>- 🌎 interested in Ui/Ux,Html5,Css3,Javascript,git,Less/Scss,React,Php,Mysql, smart contract dev. and more ..
-
+Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>- 🎓 Alma mater - Lincoln college <br>- 🎋 Currently learning smart contract development<br>
 
 
 ## 🌐 Socials:
