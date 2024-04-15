@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>- 🎓 Alma mater - Lincoln college <br>- 🎋 Currently learning smart contract development<br>
+Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>- 
 
 
 ## 🌐 Socials:
