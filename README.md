@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>- 
+Hi there 👋<br><br>- 🔭 I’m Chinweokwu Emmanuel<br>
 
 
 ## 🌐 Socials:
