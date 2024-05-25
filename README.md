@@ -1,8 +1,9 @@
 
 Hi there 👋
 
-- 🔭 I'm Chinweokwu Emmanuel, a web developer and UI/UX designer dedicated to crafting intuitive and seamless digital experiences through a blend of innovative design and skilled development.
-- 🔍 Currently, I'm exploring the Internet of Things (IoT) to understand how connected devices can transform the way we interact with technology.
+- 🔭 I'm Chinweokwu Emmanuel.
+- 🚀 A web developer and UI/UX designer.
+- 🔍 Currently, I'm exploring the Internet of Things (IoT).
 
 
 ## 🌐 Socials:
