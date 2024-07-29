@@ -2,7 +2,7 @@
 Hi there 👋
 
 - 🔭 I'm Chinweokwu Emmanuel.
-- 🚀 A web developer and UI/UX designer.
+- 🚀 A dev. and designer.
 - 🔍 Currently, I'm exploring the Internet of Things (IoT).
 
 
