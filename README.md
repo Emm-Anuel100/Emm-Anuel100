@@ -2,7 +2,7 @@
 Hi there 👋
 
 - 🔭 I'm Chinweokwu Emmanuel.
-- 🔍 Currently, I'm exploring the Internet of Things (IoT).
+- 🔍 Currently, exploring the Internet of Things (IoT).
 
 
 ## 🌐 Socials:
