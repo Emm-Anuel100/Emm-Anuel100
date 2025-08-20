@@ -1,8 +1,8 @@
 
 Hi there 👋
 
-- 🔭 I'm Chinweokwu Emmanuel.
-- 🔍 Currently, exploring the Internet of Things (IoT).
+- 🔭 I'm a Tech Savvyyy.
+- 🔍 Right now, my focus is on exploring the world of blockchain. I'm knee-deep in understanding how smart contracts work and how decentralized apps are built.
 
 
 ## 🌐 Socials:
