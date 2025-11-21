@@ -1,9 +1,8 @@
 
-Hi there 👋
+Hi 👋
 
-- 🔭 I'm a Tech Savvyyy.
-- 🔍 Right now, my focus is on exploring the world of blockchain. I'm knee-deep in understanding how smart contracts work and how decentralized apps are built.
-
+'m Chinweokwu Emmanuel,
+A Tech Enthusiast.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/chinweoemmanue) [![X](https://img.shields.io/badge/X-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Odelemmanu97025)
