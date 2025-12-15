@@ -2,7 +2,7 @@
 Hi 👋
 
 'm Chinweokwu Emmanuel,
-A Tech Enthusiast.
+A Tech Enthusiast nd more.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/chinweoemmanue) [![X](https://img.shields.io/badge/X-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Odelemmanu97025)
