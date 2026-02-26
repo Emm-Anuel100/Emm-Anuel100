@@ -4,7 +4,7 @@ Hi 👋
 'm Chinweokwu Emmanuel,
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/chinweoemmanue) [![X](https://img.shields.io/badge/X-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Odelemmanu97025)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/chinweoemmanue) [![X](https://img.shields.io/badge/X-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/c_emmanuelj)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinweokwu-emmanuel-a05a5a251/) 
 
 # 💻 Tech Stack:
